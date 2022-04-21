@@ -57,14 +57,17 @@ export const work = {
 		{
 			title: "Data Scientist Intern",
 			description: "Scotiabank Global Banking & Markets \n May 2022 - Present",
+			icons: null,
 		},
 		{
 			title: "Data Analyst Intern",
 			description: "Scotiabank \n January 2022 - April 2022",
+			icons: null,
 		},
 		{
 			title: "Tax Consultant Intern",
-			description: "Stratos Solutions Inc. (Commodity Tax Restitution Firm) \n May 2021 - August 2021",
+			description: "Stratos Solutions Inc. (Commodity Tax Restitution Firm)"+ "\n" +  "May 2021 - August 2021",
+			icons: null,
 		},
 	],
 }
