@@ -49,28 +49,36 @@ export const about = {
 		"I love utilizing tech to find creative solutions to problems that affect our day-to-day lives. When it comes to working on projects, I love to delve into huge datasets, applying unique machine-learning algorithms and models, and working on anything finance-related. I'm really interested in pursuing a career in data science or quantitative finance.",
 		"On a more personal note, some of my interests consist of playing and watching basketball, immersing myself in RPG and FPS video games, listening to old-school rap music, and weightlifting",
 	],
-}
+};
 
 export const work = {
 	title: "Experience",
 	cards: [
-		{
-			title: "Data Scientist Intern",
-			description: "Scotiabank Global Banking & Markets\nSupporting the corporate and investment banking business lines.\nMay 2022 - Present",
-			icons: null,
-		},
-		{
-			title: "Data Analyst Intern",
-			description: "Scotiabank\nCreated data visualizations and dashboards for the Global Compliance division of the bank.\nJanuary 2022 - April 2022",
-			icons: null,
-		},
-		{
-			title: "Tax Consultant Intern",
-			description: "Stratos Solutions Inc. (Commodity Tax Restitution Firm)\nSpecialized in Ontario, Quebec, and British Columbia GST/PST/QST tax recoveries.\nMay 2021 - August 2021",
-			icons: null,
-		}
+	  {
+		title: "Incoming Google STEP Intern",
+		description:
+		  "Google LLC (Mountain View, CA)\nExpected Dates: May 2022 - August 2022",
+	  },
+	  {
+		title: "Full-Stack Developer",
+		description: "FirstByte (Boston, MA)\nJanuary 2022 - Present",
+	  },
+	  {
+		title: "Teaching Assistant for Object-Oriented Design (CS3500)",
+		description:
+		  "Northeastern University (Boston, MA)\nJanuary 2022 - Present",
+	  },
+	  {
+		title: "Teaching Assistant for Discrete Structures (CS1800)",
+		description:
+		  "Northeastern University (Boston, MA)\nJune 2021 - December 2021",
+	  },
+	  {
+		title: "Software Engineer/UI Intern",
+		description: "PicdLocal (San Gabriel, CA)\nAugust 2019 - March 2020",
+	  },
 	],
-}
+  };
 
 export const projects = {
 	title: "Projects",
