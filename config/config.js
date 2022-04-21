@@ -55,27 +55,18 @@ export const work = {
 	title: "Experience",
 	cards: [
 	  {
-		title: "Incoming Google STEP Intern",
+		title: "Data Scientist Intern",
 		description:
-		  "Google LLC (Mountain View, CA)\nExpected Dates: May 2022 - August 2022",
+		  "Scotiabank Global Banking & Markets (Toronto, ON)\nMay 2022 - Present",
 	  },
 	  {
-		title: "Full-Stack Developer",
-		description: "FirstByte (Boston, MA)\nJanuary 2022 - Present",
+		title: "Data Analyst Intern",
+		description: "Scotiabank (Toronto, ON)\nJanuary 2022 - April 2022",
 	  },
 	  {
-		title: "Teaching Assistant for Object-Oriented Design (CS3500)",
+		title: "Tax Consultant Intern",
 		description:
-		  "Northeastern University (Boston, MA)\nJanuary 2022 - Present",
-	  },
-	  {
-		title: "Teaching Assistant for Discrete Structures (CS1800)",
-		description:
-		  "Northeastern University (Boston, MA)\nJune 2021 - December 2021",
-	  },
-	  {
-		title: "Software Engineer/UI Intern",
-		description: "PicdLocal (San Gabriel, CA)\nAugust 2019 - March 2020",
+		  "Stratos Solutions Inc. (Vaughan, ON)\nMay 2021 - August 2021",
 	  },
 	],
   };
