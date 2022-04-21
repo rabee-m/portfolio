@@ -55,9 +55,9 @@ export const work = {
   title: "Experience",
   cards: [
     {
-      title: "Incoming Google STEP Intern",
+      title: "Data Scientist Intern",
       description:
-        "Google LLC (Mountain View, CA)\nExpected Dates: May 2022 - August 2022",
+        "Scotiabank Global Banking & Markets (Toronto, ON)\r\nMay 2022 - Present",
     },
     {
       title: "Full-Stack Developer",
