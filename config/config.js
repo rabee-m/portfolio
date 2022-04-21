@@ -66,7 +66,9 @@ export const work = {
 		},
 		{
 			title: "Tax Consultant Intern",
-			description: "Stratos Solutions Inc. (Commodity Tax Restitution Firm) \n May 2021 - August 2021",
+			description: [ "Stratos Solutions Inc. (Commodity Tax Restitution Firm)",
+						"May 2021 - August 2021",
+		],
 			icons: null,
 		}
 	],
