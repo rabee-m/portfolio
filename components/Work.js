@@ -42,14 +42,14 @@ export const Projects = ({ title, cards }) => {
   );
 };
 
-export const Card = ({ title, start_date, description, icons }) => {
+export const Card = ({ title, description, start_date, icons }) => {
   return (
     <div
       className="card py-3 px-3 mx-sm-4 my-4 card-work"
       style={{ width: "20rem" }}
     >
       <h4 className="text-primary">{title}</h4>
-      <p className="text-dark">{description}</p>
+      <p className="text-dark">{description} <br>{start_date}</br></p>
 	  <p className="text-dark">{start_date}</p>
       <div className="text-end">
         {icons &&
