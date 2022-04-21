@@ -52,33 +52,33 @@ export const about = {
 };
 
 export const work = {
-	title: "Experience",
-	cards: [
-	  {
-		title: "Data Scientist Intern",
-		description:
-		  "Scotiabank Global Banking & Markets (Toronto, ON)\nMay 2022 - Present",
-	  },
-	  {
-		title: "Data Analyst Intern",
-		description: "Scotiabank (Toronto, ON)\nJanuary 2022 - April 2022",
-	  },
-	  {
-		title: "Tax Consultant Intern",
-		description:
-		  "Stratos Solutions Inc. (Vaughan, ON)\nMay 2022 - Present",
-	  },
-	  {
-		title: "Teaching Assistant for Discrete Structures (CS1800)",
-		description:
-		  "Northeastern University (Boston, MA)\nJune 2021 - December 2021",
-	  },
-	  {
-		title: "Software Engineer/UI Intern",
-		description: "PicdLocal (San Gabriel, CA)\nAugust 2019 - March 2020",
-	  },
-	],
-  };
+  title: "Experience",
+  cards: [
+    {
+      title: "Incoming Google STEP Intern",
+      description:
+        "Google LLC (Mountain View, CA)\nExpected Dates: May 2022 - August 2022",
+    },
+    {
+      title: "Full-Stack Developer",
+      description: "FirstByte (Boston, MA)\nJanuary 2022 - Present",
+    },
+    {
+      title: "Teaching Assistant for Object-Oriented Design (CS3500)",
+      description:
+        "Northeastern University (Boston, MA)\nJanuary 2022 - Present",
+    },
+    {
+      title: "Teaching Assistant for Discrete Structures (CS1800)",
+      description:
+        "Northeastern University (Boston, MA)\nJune 2021 - December 2021",
+    },
+    {
+      title: "Software Engineer/UI Intern",
+      description: "PicdLocal (San Gabriel, CA)\nAugust 2019 - March 2020",
+    },
+  ],
+};
 
 export const projects = {
 	title: "Projects",
