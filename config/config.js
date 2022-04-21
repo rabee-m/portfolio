@@ -56,8 +56,7 @@ export const work = {
   cards: [
     {
       title: "Data Scientist Intern",
-      description:
-        "Scotiabank Global Banking & Markets",
+      description: "Scotiabank Global Banking & Markets\nCommerical and Investment Banking Lines",
     },
     {
       title: "Data Analyst Intern",
