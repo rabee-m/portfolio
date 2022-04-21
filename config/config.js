@@ -57,25 +57,16 @@ export const work = {
     {
       title: "Data Scientist Intern",
       description:
-        "Scotiabank Global Banking & Markets (Toronto, ON)\r\nMay 2022 - Present",
+        "Scotiabank Global Banking & Markets",
     },
     {
-      title: "Full-Stack Developer",
-      description: "FirstByte (Boston, MA)\nJanuary 2022 - Present",
+      title: "Data Analyst Intern",
+      description: "Scotiabank",
     },
     {
-      title: "Teaching Assistant for Object-Oriented Design (CS3500)",
+      title: "Tax Consultant Intern",
       description:
-        "Northeastern University (Boston, MA)\nJanuary 2022 - Present",
-    },
-    {
-      title: "Teaching Assistant for Discrete Structures (CS1800)",
-      description:
-        "Northeastern University (Boston, MA)\nJune 2021 - December 2021",
-    },
-    {
-      title: "Software Engineer/UI Intern",
-      description: "PicdLocal (San Gabriel, CA)\nAugust 2019 - March 2020",
+        "Stratos Solutions Inc.",
     },
   ],
 };
@@ -84,40 +75,32 @@ export const projects = {
 	title: "Projects",
 	cards: [
 		{
-			title: "StarBook",
-			description: "A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.",
+			title: "NBA MVP Predictor",
+			description: "A machine learning model that predicts NBA MVP for a given season based on data.",
 			icons: [
 				{
-					icon: faAppStore,
-					link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
-				},
-				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/star_book",
+					link: "https://github.com/rabee-m/nbamvp",
 				},
 			]
 		},
 		{
-			title: "QuranTalk",
-			description: "An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.",
+			title: "Stock News Sentiment Analysis",
+			description: "Performs sentiment analysis on news headlines and stock articles by scraping data from the internet.",
 			icons: [
 				{
-					icon: faAppStore,
-					link: "https://apps.apple.com/us/app/qurantalk/id1563425149",
-				},
-				{
-					icon: faGooglePlay,
-					link: "https://play.google.com/store/apps/details?id=com.ayahemotion.quran_talk",
+					icon: faGithub,
+					link: "https://github.com/rabee-m/sentiment-analysis-stock-news",
 				},
 			]
 		},
 		{
-			title: "Portfolio",
-			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+			title: "Biquadris (2-player Tetris)",
+			description: "A modified version of Tetris that supports two-player capability, and special abilities with graphic support.",
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/portfolio",
+					link: "https://github.com/rabee-m/",
 				},
 			]
 		},
@@ -126,17 +109,12 @@ export const projects = {
 
 export const contact = {
 	title: "Get in touch",
-	description: "Coffee Chat! Please do not hesitate to schedule a meeting. Alternatively, feel free to reach out directly by email at hashirshoaeb@gmail.com.",
+	description: "Feel free to reach out directly by email at muhammad.rabee02@gmail.com.",
 	buttons: [
 		{
 			title: "Email Me",
-			link: "mailto:hashirshoaeb@gmail.com",
+			link: "mailto:muhammad.rabee02@gmail.com",
 			isPrimary: true,
-		},
-		{
-			title: "Schedule Meeting",
-			link: "",
-			isPrimary: false,
 		},
 	]
 }
@@ -144,35 +122,27 @@ export const contact = {
 // SEARCH ENGINE 
 export const SEO = {
 	// 50 - 60 char  
-	title: "Hashir Shoaib | Computer Engineer | Flutter | Reactjs developer",
-	description: "I create mobile apps and static websites. I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering.",
+	title: "Muhammad Rabee | Data Scientist",
+	description: "2nd year Mathematics student at the University of Waterloo.",
 	image: profile.src,
 }
 
 export const links = {
 	image: profile.src,
-	title: "@hashirshoaeb",
-	description: "Computer Engineer | Flutter | Reactjs Developer",
+	title: "@mrabee",
+	description: "Data Scientist | 2A Math @ UWaterloo",
 	cards: [
 		{
 			title: "My website",
-			link: "https://hashirshoaeb.com/",
-		},
-		{
-			title: "QuranTalk App",
-			link: "https://www.qurantalk.app/",
-		},
-		{
-			title: "StarBook App",
-			link: "https://starbook.dev/",
+			link: "https://github.com/rabee-m/",
 		},
 		{
 			title: "My GitHub",
-			link: "https://github.com/hashirshoaeb/",
+			link: "https://github.com/rabee-m/",
 		},
 		{
 			title: "My LinkedIn",
-			link: "https://www.linkedin.com/in/hashirshoaeb/",
+			link: "https://www.linkedin.com/in/mrabee/",
 		},
 	]
 }
