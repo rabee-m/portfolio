@@ -61,14 +61,14 @@ export const work = {
 		},
 		{
 			title: "Data Analyst Intern",
-			description: "Scotiabank \n January 2022 - April 2022",
+			description: "Scotiabank \nJanuary 2022 - April 2022",
 			icons: null,
 		},
 		{
 			title: "Tax Consultant Intern",
-			description: "Stratos Solutions Inc. (Commodity Tax Restitution Firm)"+ "\n" +  "May 2021 - August 2021",
+			description: "PicdLocal (San Gabriel, CA)\nAugust 2019 - March 2020",
 			icons: null,
-		},
+		}
 	],
 }
 
