@@ -56,17 +56,17 @@ export const work = {
 	cards: [
 		{
 			title: "Data Scientist Intern",
-			description: "Scotiabank Global Banking & Markets\nSupporting the corporate and investment banking business lines.\nMay 2022 - Present",
+			description: "Scotiabank Global Banking & Markets\nMay 2022 - Present",
 			icons: null,
 		},
 		{
 			title: "Data Analyst Intern",
-			description: "Scotiabank\nCreated data visualizations and dashboards for the Global Compliance division of the bank.\nJanuary 2022 - April 2022",
+			description: "Scotiabank\nJanuary 2022 - April 2022",
 			icons: null,
 		},
 		{
 			title: "Tax Consultant Intern",
-			description: "Stratos Solutions Inc. (Commodity Tax Restitution Firm)\nSpecialized in Ontario, Quebec, and British Columbia GST/PST/QST tax recoveries.\nMay 2021 - August 2021",
+			description: "Stratos Solutions Inc. (Commodity Tax Restitution Firm)\nMay 2021 - August 2021",
 			icons: null,
 		}
 	],
