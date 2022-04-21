@@ -4,7 +4,7 @@ import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-	name: "Hashir",
+	name: "Muhammad",
 	links: [
 		{
 			title: "About",
@@ -26,7 +26,7 @@ export const navigation = {
 }
 export const intro = {
 	title: "Hey, I'm Muhammad",
-	description: "A Mathematics student studying data science and software engineering.",
+	description: "A Mathematics student passionate about the areas of machine learning, data science and software engineering.",
 	image: profile.src,
 	buttons: [
 		{
@@ -36,7 +36,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+			link: "https://drive.google.com/file/d/1ZScWoHxmAWnjfFIpF3Gu8EsDKl7XuKoT/view?usp=sharing",
 			isPrimary: false,
 		},
 	],
@@ -45,23 +45,28 @@ export const intro = {
 export const about = {
 	title: "Who I am",
 	description: [
-		"I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering. I kick started my professional career as a mobile application developer working remotely for a UK based startup — Lessgo.",
-		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I also love joining communities, helping and mentoring new developers, and supporting organizations to promote diversity in tech. I’m sharing my programming journey on instagram, helping people who are just getting into the space of programming.",
-		"When I’m not programming, I focus on my hobbies which are: diary writing, doodling, meeting people and growing my network.",
+		"I'm a 2nd year student at the University of Waterloo pursuing a degree in Mathematics with a major in Statistics and a minor in Computer Science.",
+		"I love utilizing tech to find creative solutions to problems that affect our day-to-day lives. When it comes to working on projects, I love to delve into huge datasets, applying unique machine-learning algorithms and models, and working on anything finance-related. I'm really interested in pursuing a career in data science or quantitative finance.",
+		"On a more personal note, some of my interests consist of playing and watching basketball, immersing myself in RPG and FPS video games, listening to old-school rap music, and weightlifting",
 	],
 }
 
 export const work = {
-	title: "What I do",
+	title: "Experience",
 	cards: [
 		{
-			title: "Mobile App Development",
-			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+			title: "Data Scientist Intern",
+			description: "Scotiabank Global Banking & Markets\nSupporting the corporate and investment banking business lines.\nMay 2022 - Present",
 			icons: null,
 		},
 		{
-			title: "Web Development",
-			description: "I create responsive static websites using Reactjs.",
+			title: "Data Analyst Intern",
+			description: "Scotiabank\nCreated data visualizations and dashboards for the Global Compliance division of the bank.\nJanuary 2022 - April 2022",
+			icons: null,
+		}
+		{
+			title: "Tax Consultant Intern",
+			description: "Stratos Solutions Inc. (Commodity Tax Restitution Firm)\nSpecialized in Ontario, Quebec, and British Columbia GST/PST/QST tax recoveries.\nMay 2021 - August 2021",
 			icons: null,
 		}
 	],
