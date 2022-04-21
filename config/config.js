@@ -57,16 +57,25 @@ export const work = {
 	  {
 		title: "Data Scientist Intern",
 		description:
-		  "Scotiabank Global Banking and Markets\nMay 2022 - Present",
+		  "Scotiabank Global Banking & Markets (Toronto, ON)\nMay 2022 - Present",
 	  },
 	  {
 		title: "Data Analyst Intern",
-		description: "Scotiabank\nJanuary 2022 - April 2022",
+		description: "Scotiabank (Toronto, ON)\nJanuary 2022 - April 2022",
 	  },
 	  {
 		title: "Tax Consultant Intern",
 		description:
-		  "Stratos Solutions Inc\nMay 2021 - August 2021",
+		  "Stratos Solutions Inc. (Vaughan, ON)\nMay 2022 - Present",
+	  },
+	  {
+		title: "Teaching Assistant for Discrete Structures (CS1800)",
+		description:
+		  "Northeastern University (Boston, MA)\nJune 2021 - December 2021",
+	  },
+	  {
+		title: "Software Engineer/UI Intern",
+		description: "PicdLocal (San Gabriel, CA)\nAugust 2019 - March 2020",
 	  },
 	],
   };
