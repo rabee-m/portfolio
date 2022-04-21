@@ -60,11 +60,11 @@ export const work = {
     },
     {
       title: "Data Analyst Intern",
-      description: "Scotiabank (January 2022 - April 2022)",
+      description: "Scotiabank (Jan 2022 - Apr 2022)",
     },
     {
       title: "Tax Consultant Intern",
-      description: "Stratos Solutions Inc. (May 2021 - August 2021)",
+      description: "Stratos Solutions Inc. (May 2021 - Aug 2021)",
     },
   ],
 };
