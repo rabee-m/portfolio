@@ -56,11 +56,11 @@ export const work = {
   cards: [
     {
       title: "Data Scientist Intern",
-      description: "Scotiabank Global Banking & Markets\nCommerical and Investment Banking Lines",
+      description: "Scotiabank Global Banking & Markets\n Support corporate and investment banking lines.\nMay 2022 - Present\n",
     },
     {
       title: "Data Analyst Intern",
-      description: "Scotiabank",
+      description: "Scotiabank\nJanuary 2022 - April 2022\n",
     },
     {
       title: "Tax Consultant Intern",
