@@ -128,7 +128,7 @@ export const SEO = {
 export const links = {
 	image: profile.src,
 	title: "@mrabee",
-	description: "Data Scientist | 2A Math @ UWaterloo",
+	description: "Data Scientist | Math @ UWaterloo",
 	cards: [
 		{
 			title: "My website",
