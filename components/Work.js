@@ -26,21 +26,23 @@ export const Projects = ({ title, cards }) => {
   return (
     <div id="projects" className="bg-primary py-5 px-5">
       <div className="container">
-        <h1 className="text-light text-center fw-bold">Projects</h1>
+        <h1 className="text-light fw-bold">Projects</h1>
         <div className="d-flex flex-row flex-wrap justify-content-center">
           {cards.map((value, index) => (
-            <SpecialCard
+            <Card
               key={index}
               title={value.title}
               description={value.description}
-              icons={value.icons}
-            />
+              icons={value.icons} />
           ))}
         </div>
+        {/* <div className="text-center">
+					<button type="button" className="btn btn-outline-light">See More</button>
+				</div> */}
       </div>
     </div>
   );
-};
+}
 
 export const Card = ({ title, description, icons }) => {
   return (
@@ -76,7 +78,7 @@ export const SpecialCard = ({ title, description, icons }) => {
           <Link key={index} href={value.link}>
             <div
               className="card py-3 px-3 mx-sm-4 my-4 card-work"
-              style={{ width: "20rem", cursor: "pointer"}}
+              style={{ width: "20rem", cursor: "pointer" }}
             >
               <h4 className="text-primary">{title}</h4>
               <p className="text-dark">{description}</p>
